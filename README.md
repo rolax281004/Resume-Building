@@ -155,30 +155,6 @@ Live Resume Preview
 
 PDF Download Feature
 
-⚙️ Installation & Usage
-1️⃣ Download or Clone the Repository
-git clone https://github.com/yourusername/resume-builder.git
-2️⃣ Open the Project
-
-Navigate to the project folder.
-
-3️⃣ Run the Website
-
-Simply open the file:
-
-resume-builder.html
-
-in any browser such as:
-
-Chrome
-
-Edge
-
-Firefox
-
-Brave
-
-No server setup required.
 
 🚀 Future Improvements
 
